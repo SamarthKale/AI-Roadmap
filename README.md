@@ -1,7 +1,6 @@
 # 🤖 The AI-Powered Orchestra: Your Modern Development Stack
 
 [![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/SamarthKale/AI-Roadmap)
-[![Open in CodeSandbox](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/github/SamarthKale/AI-Roadmap)
 
 > Click a button above to instantly run this project in your browser — no installation required! 🚀
 
